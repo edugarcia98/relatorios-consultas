@@ -1,0 +1,1 @@
+web: gunicorn relatorio_medico.wsgi
